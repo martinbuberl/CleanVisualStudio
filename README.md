@@ -1,4 +1,4 @@
-# Clean Visual Studio workspace with PowerShell
+# Clean Visual Studio workspace
 
 `CLean.ps1` is a PowerShell script to wipe all temporary and unwanted files in your Visual Studio workspace for a truly clean repository.
 
